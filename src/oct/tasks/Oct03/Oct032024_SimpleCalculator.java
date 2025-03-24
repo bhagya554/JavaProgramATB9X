@@ -1,4 +1,4 @@
-package oct.tasks;
+package oct.tasks.Oct03;
 
 public class Oct032024_SimpleCalculator {
     public static int sum(int a,int b){

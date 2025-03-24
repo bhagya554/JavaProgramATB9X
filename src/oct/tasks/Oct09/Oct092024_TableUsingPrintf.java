@@ -1,4 +1,4 @@
-package oct.tasks;
+package oct.tasks.Oct09;
 
 public class Oct092024_TableUsingPrintf {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package oct.lab;
+package oct.lab.Oct09;
 
 public class Oct092024_characters {
     public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class Oct092024_characters {
         char c5 = '\n';
         System.out.print(c5);
 
-        char c6 = '\u1F6A';
+        char c6 = '\u1F6A';//unicode - Ὢ
         System.out.print(c6);
     }
 }
