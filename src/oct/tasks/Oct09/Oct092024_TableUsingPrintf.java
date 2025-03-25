@@ -5,10 +5,10 @@ public class Oct092024_TableUsingPrintf {
 /*
 printf - replaces value in %d/%s/%f/%b
  */
-        int a = 7;
+        int $a_$ = 7;
         System.out.println();
         for(int i=1;i<=10;i++){
-            System.out.printf("%d X %d = %d\n",a,i,a*i);
+            System.out.printf("%d X %d = %d\n",$a_$,i,$a_$*i);
         }
 
 
