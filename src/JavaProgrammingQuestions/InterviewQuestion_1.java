@@ -8,7 +8,8 @@ import java.util.Set;
 /*
 int[] arr1 = {1,2,2,3,3,5,6,6,8}
 int[] arr2 = {1,2,2,3}
-Write a java program to print numbers which are repeated atleast twice in arr1 and present in arr2.
+Write a java program to print numbers which are repeated atleast
+twice in arr1 and present in arr2.
 
 o/p : 2,3
  */

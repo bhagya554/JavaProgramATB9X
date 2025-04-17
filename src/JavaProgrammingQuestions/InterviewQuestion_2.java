@@ -22,6 +22,8 @@ public class InterviewQuestion_2 {
             char c = str.charAt(i);
             map.put(c,map.getOrDefault(c,0)+1);
         }
+        System.out.println(Character.isLetterOrDigit('3'));
+
         System.out.println(c1 + " is present " + map.get(c1) + " times in the given string: " +str);
     }
 }
